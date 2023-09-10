@@ -17,5 +17,5 @@ String[] LastName = { "ahmad", "mohammad", "zain", "johhny" };
 int RandomLastname = rand.nextInt(0,4);
 String DummyEmail="@Gmail.com";
 int RandomEmail=rand.nextInt(0,100);
-String Pass="MBD12345**";
+String Pass="MBD12345**";   
 }
